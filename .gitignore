@@ -1,3 +1,5 @@
 meli
 data
 .idea/
+model_coss_similarity_matrix.pickle
+model_coss_similarity_matrix
